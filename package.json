@@ -1,0 +1,23 @@
+{
+  "name": "web-base-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czero1995/web-base-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czero1995/web-base-study/issues"
+  },
+  "homepage": "https://github.com/czero1995/web-base-study#readme"
+}
