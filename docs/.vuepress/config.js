@@ -36,7 +36,7 @@ function guideSidebar() {
     {
       title: 'JavaScript',
       collapsable: true,
-      children: ['js/js'],
+      children: ['js/apply', 'js/call', 'js/bind', 'js/new', 'js/debounce', 'js/throttle', 'js/extend', 'js/deepClone'],
     },
     {
       title: 'TypeScript',
@@ -46,12 +46,12 @@ function guideSidebar() {
     {
       title: 'Vue',
       collapsable: true,
-      children: ['vue/vue2','vue/vue3','vue/vueRouter','vue/computed','vue/watched','vue/nextTick','vue/keep-alive'],
+      children: ['vue/vue2', 'vue/vue3', 'vue/vueRouter', 'vue/computed', 'vue/watched', 'vue/nextTick'],
     },
     {
       title: 'LeetCode',
       collapsable: true,
-      children: ['leetCode/03','leetCode/04','leetCode/05','leetCode/06','leetCode/07','leetCode/11'],
+      children: ['leetCode/03', 'leetCode/04', 'leetCode/05', 'leetCode/06', 'leetCode/07', 'leetCode/11'],
     },
     {
       title: 'Webpack',
@@ -68,6 +68,6 @@ function guideSidebar() {
       collapsable: true,
       children: ['design/design'],
     },
-    
+
   ];
 }
