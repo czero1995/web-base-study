@@ -61,7 +61,7 @@ function guideSidebar() {
     {
       title: 'Node',
       collapsable: true,
-      children: ['node/node'],
+      children: ['node/node', 'node/eventLoop'],
     },
     {
       title: '设计模式',
